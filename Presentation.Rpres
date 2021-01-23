@@ -7,9 +7,13 @@ autosize: true
 Description of the Iris Shiny App
 ========================================================
 
-This is the first part of the course project for the Developing Data Products course on Coursera.
+This presentation is the second part of the course project for the Developing Data Products course on Coursera.
 
-This app uses the Edgar Anderson's Iris Data. This data set gives the measurements in centimeters of the variables sepal length and width and petal length and width, respectively, for 50 flowers from each of 3 species of Iris.
+The app I created uses the Edgar Anderson's Iris Data. This data set gives the measurements in centimeters of the variables sepal length and width and petal length and width, respectively, for 50 flowers from each of 3 species of Iris.
+
+- Link to the app: https://otyfrank.shinyapps.io/IrisShinyApp/
+- Link to the github repository: https://github.com/otyfrank/IrisShinyApp
+- Link to the presentation: https://rpubs.com/Otyfrank/irisshinyapp
 
 The Iris Shiny App has 4 tabs
 ========================================================
